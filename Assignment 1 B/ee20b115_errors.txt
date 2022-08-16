@@ -1,0 +1,16 @@
+
+ERRORS and their CORRECTIONS:
+
+1. Main function was not defined, defined main function.
+
+2. Data type of rate of interest was not defined, defined float r.
+
+3. No ; after scanning p, put ; there.
+
+3. Data type of time is int but as t/365 can take 
+non integer values so right  data type would be float.
+
+4. No braces around r/100, put braces there to preserve order.
+ 
+5. Added + p in maturity formula which was missing.
+
