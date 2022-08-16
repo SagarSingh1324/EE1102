@@ -6,8 +6,7 @@ Each Assignment folder contains:
 
 2 subdirectories :
 
-C code --> This directory contains the C language code for the assignment
-
-Executables --> This directory contains the respective executables
+  1. C code --> This directory contains the C language code for the assignment
+  2. Executables --> This directory contains the respective executables
 
 
