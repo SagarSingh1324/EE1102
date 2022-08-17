@@ -4,7 +4,7 @@ C language code files and their executables for the course Programming in C ( EE
 
 Each Assignment directory contains:
 
-2 subdirectories ( A and B assignments) :
+    2 subdirectories ( A and B assignments) 
   
 Each part contains 2 subdirectories:
 
